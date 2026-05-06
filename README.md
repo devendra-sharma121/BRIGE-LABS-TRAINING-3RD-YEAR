@@ -1,2 +1,0 @@
-Calculator programmed in java
-
